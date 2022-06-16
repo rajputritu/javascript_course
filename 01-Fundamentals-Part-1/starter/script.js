@@ -266,5 +266,6 @@ console.log(`the bill was ${bill}, the tip was ${tip} and the total value ${bill
 console.log("hello");
 console.log("bye");
 console.log("ritu");
+console.log("xyz");
 
 
